@@ -1,0 +1,15 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/zeyadal-harbi/Desktop/app/flutter
+FLUTTER_APPLICATION_PATH=/Users/zeyadal-harbi/Desktop/app/n
+FLUTTER_TARGET=/Users/zeyadal-harbi/Desktop/app/n/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+OTHER_LDFLAGS=$(inherited) -framework Flutter
+FLUTTER_FRAMEWORK_DIR=/Users/zeyadal-harbi/Desktop/app/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.9.4
+FLUTTER_BUILD_NUMBER=3001
+DART_DEFINES=flutter.inspector.structuredErrors%3Dtrue
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.packages
